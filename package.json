@@ -23,7 +23,7 @@
     "@ngrx/store": "^8.4.0",
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
-    "zone.js": "~0.9.1"
+    "zone.js": "~0.9.1",
     "@angular-devkit/architect": "^0.803.0",
     "@angular-devkit/build-optimizer": "^0.800.0-beta.15",
     "@angular-devkit/core": "^8.0.0-beta.15",
