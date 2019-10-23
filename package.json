@@ -202,6 +202,6 @@
     "@vue/eslint-config-typescript": "^4.0.0",
     "@vuepress/plugin-pwa": "^1.2.0",
     "@vuepress/theme-vue": "^1.2.0",
-    "typescript": "~1.8.10"
+    "typescript": "~3.6.4"
   }
 }
