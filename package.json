@@ -60,5 +60,5 @@
     "wast-loader": "^1.5.5",
     "worker-loader": "^2.0.0",
     "xxhashjs": "^0.2.1"
-  },
+  }
 }
