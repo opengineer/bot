@@ -100,7 +100,7 @@
     "luxon": "^1.12.0",
     "markdown-it": "^10.0.0",
     "markdown-it-anchor": "^5.0.2",
-    "rollup-plugin-amd": "^3.0.0",
+    "rollup-plugin-amd": "^4.0.0",
     "rollup-plugin-json": "^4.0.0",
     "rollup-plugin-sourcemaps": "^0.4.2",
     "@babel/cli": "^7.0.0",
