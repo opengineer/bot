@@ -30,7 +30,7 @@
     "@types/chai": "^4.1.2",
     "@types/chokidar": "^1.7.5",
     "@types/convert-source-map": "^1.5.1",
-    "@types/diff": "^3.5.1",
+    "@types/diff": "^4.0.2",
     "@types/fs-extra": "4.0.2",
     "@types/hammerjs": "2.0.35",
     "@types/inquirer": "^0.0.44",
