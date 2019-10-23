@@ -27,7 +27,7 @@
     "@angular-devkit/architect": "^0.803.14",
     "@angular-devkit/build-optimizer": "^0.803.14",
     "@angular-devkit/core": "^8.0.0-beta.15",
-    "@angular-devkit/schematics": "^8.0.0-beta.15",
+    "@angular-devkit/schematics": "^8.3.14",
     "@bazel/jasmine": "0.39.0",
     "@bazel/karma": "0.39.0",
     "@bazel/protractor": "0.39.0",
