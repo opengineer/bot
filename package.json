@@ -130,7 +130,7 @@
     "@babel/plugin-transform-template-literals": "^7.0.0",
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-react": "^7.7.0",
-    "@babel/traverse": "^7.7.0",
+    "@babel/traverse": "^7.7.2",
     "@mattiasbuelens/web-streams-polyfill": "0.3.2",
     "karma": "^4.4.1",
     "karma-chrome-launcher": "^3.1.0",
