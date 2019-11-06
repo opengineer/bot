@@ -165,7 +165,7 @@
     "eslint-plugin-react": "^7.16.0",
     "fbjs-scripts": "^1.2.0",
     "filesize": "^6.0.0",
-    "flow-bin": "^0.111.1",
+    "flow-bin": "^0.111.3",
     "glob": "^7.1.5",
     "glob-stream": "^6.1.0",
     "google-closure-compiler": "20191027.0.0",
