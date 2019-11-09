@@ -86,7 +86,7 @@
     "react-dom": "^16.8.0",
     "script-loader": "~0.7.0",
     "simple-git": "^1.65.0",
-    "strip-ansi": "^5.2.0",
+    "strip-ansi": "^6.0.0",
     "style-loader": "^1.0.0",
     "ts-loader": "^6.0.4",
     "url-loader": "^2.1.0",
