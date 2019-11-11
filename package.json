@@ -154,7 +154,7 @@
     "coveralls": "^3.0.7",
     "create-react-class": "^15.6.3",
     "cross-env": "^6.0.3",
-    "danger": "^9.2.4",
+    "danger": "^9.2.5",
     "error-stack-parser": "^2.0.2",
     "eslint": "^6.6.0",
     "eslint-config-fbjs": "^1.1.1",
