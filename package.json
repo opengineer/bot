@@ -28,7 +28,7 @@
     "@angular-devkit/build-optimizer": "^0.803.18",
     "@angular-devkit/core": "^8.3.18",
     "@angular-devkit/schematics": "^8.3.18",
-    "@bazel/jasmine": "0.39.1",
+    "@bazel/jasmine": "0.40.0",
     "@bazel/karma": "0.40.0",
     "@bazel/protractor": "0.40.0",
     "@bazel/typescript": "0.40.0",
