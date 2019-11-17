@@ -197,7 +197,7 @@
     "through2": "^3.0.1",
     "tmp": "~0.1.0",
     "@vue/eslint-config-airbnb": "^4.0.0",
-    "@vue/eslint-config-prettier": "^5.1.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
     "@vue/eslint-config-standard": "^4.0.0",
     "@vue/eslint-config-typescript": "^4.0.0",
     "@vuepress/plugin-pwa": "^1.2.0",
