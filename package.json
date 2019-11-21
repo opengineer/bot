@@ -89,7 +89,7 @@
     "strip-ansi": "^6.0.0",
     "style-loader": "^1.0.0",
     "ts-loader": "^6.0.4",
-    "url-loader": "^2.1.0",
+    "url-loader": "^2.3.0",
     "wast-loader": "^1.5.5",
     "worker-loader": "^2.0.0",
     "xxhashjs": "^0.2.1",
