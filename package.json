@@ -123,7 +123,7 @@
     "@babel/plugin-transform-literals": "^7.7.4",
     "@babel/plugin-transform-modules-commonjs": "^7.7.4",
     "@babel/plugin-transform-object-super": "^7.7.4",
-    "@babel/plugin-transform-parameters": "^7.0.0",
+    "@babel/plugin-transform-parameters": "^7.7.4",
     "@babel/plugin-transform-react-jsx-source": "^7.7.4",
     "@babel/plugin-transform-shorthand-properties": "^7.7.4",
     "@babel/plugin-transform-spread": "^7.7.4",
