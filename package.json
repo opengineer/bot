@@ -32,7 +32,7 @@
     "@bazel/karma": "0.40.0",
     "@bazel/protractor": "0.40.0",
     "@bazel/typescript": "0.41.0",
-    "@microsoft/api-extractor": "^7.6.1",
+    "@microsoft/api-extractor": "^7.6.2",
     "@schematics/angular": "^8.3.19",
     "@types/angular": "^1.6.47",
     "@types/babel__core": "^7.1.3",
