@@ -26,7 +26,7 @@
     "zone.js": "~0.9.1",
     "@angular-devkit/architect": "^0.803.20",
     "@angular-devkit/build-optimizer": "^0.803.20",
-    "@angular-devkit/core": "^8.3.19",
+    "@angular-devkit/core": "^8.3.20",
     "@angular-devkit/schematics": "^8.3.20",
     "@bazel/jasmine": "0.42.1",
     "@bazel/karma": "0.40.0",
