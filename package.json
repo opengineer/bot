@@ -70,7 +70,7 @@
     "istanbul": "^0.4.5",
     "jest-junit": "^10.0.0",
     "json-loader": "^0.5.7",
-    "json-schema-to-typescript": "^7.0.0",
+    "json-schema-to-typescript": "^8.0.0",
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
     "lint-staged": "^9.5.0",
