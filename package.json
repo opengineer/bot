@@ -31,7 +31,7 @@
     "@bazel/jasmine": "0.42.3",
     "@bazel/karma": "0.40.0",
     "@bazel/protractor": "0.40.0",
-    "@bazel/typescript": "0.42.1",
+    "@bazel/typescript": "0.42.3",
     "@microsoft/api-extractor": "^7.7.0",
     "@schematics/angular": "^8.3.20",
     "@types/angular": "^1.6.57",
