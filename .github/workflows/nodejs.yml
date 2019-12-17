@@ -1,4 +1,4 @@
-name: Node CI
+name: nodejs
 
 on: [push]
 
@@ -19,6 +19,12 @@ jobs:
         node-version: ${{ matrix.node-version }}
     - name: npm install, build, and test
       run: |
-        npm install
+        npm install intelligo
+        npm install intelligo-cli
+        npm install uptime.js
+        npm install neuro.js
+        npm install @devmn/image-viewer
+        npm install @devmn/stepper
+        npm install @devmn/multi-select
       env:
         CI: true
